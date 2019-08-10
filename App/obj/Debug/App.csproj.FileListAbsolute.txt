@@ -1,0 +1,157 @@
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\bin\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\bin\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\obj\Debug\App.Form1.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\obj\Debug\App.Properties.Resources.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\obj\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\obj\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\bin\Debug\WyDriver.dll
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\INTERFACE WYMA V1.3\App\bin\Debug\WyDriver.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\obj\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\obj\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\bin\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\bin\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\bin\Debug\WyDriver.dll
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\bin\Debug\WyDriver.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\obj\Debug\App.Form1.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\obj\Debug\App.Properties.Resources.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\obj\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\obj\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\bin\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\bin\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\bin\Debug\WyDriver.dll
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\bin\Debug\WyDriver.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\obj\Debug\App.Form1.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\obj\Debug\App.Properties.Resources.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V1.0\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\obj\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\obj\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\obj\Debug\App.Form1.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\obj\Debug\App.Properties.Resources.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\bin\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\bin\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\bin\Debug\WyDriver.dll
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2008\Projects\WYDRIVER V2.0\App\bin\Debug\WyDriver.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\obj\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\obj\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\obj\Debug\App.Form1.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\obj\Debug\App.Properties.Resources.resources
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\bin\Debug\App.exe
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\bin\Debug\App.pdb
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\bin\Debug\WyDriver.dll
+C:\Documents and Settings\ricardo\Meus documentos\Visual Studio 2010\Projects\WYDRIVER V1.0\App\bin\Debug\WyDriver.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Debug\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Debug\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Debug\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Debug\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Debug\WyDriver.dll
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Debug\WyDriver.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Debug\App.Form1.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Debug\App.Properties.Resources.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Debug\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Debug\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Debug\WyDriver.dll
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Debug\WyDriver.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\App.Form1.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\App.Properties.Resources.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Debug\App.Form2.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\obj\Debug\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\obj\Debug\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\bin\Debug\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\bin\Debug\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\bin\Debug\WyDriver.dll
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\bin\Debug\WyDriver.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\obj\Debug\App.Form1.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\obj\Debug\App.Form1.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\bin\Debug\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\bin\Debug\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\bin\Debug\WyDriver.dll
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\bin\Debug\WyDriver.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\obj\Debug\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.0 - Teste\App\obj\Debug\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Debug\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Debug\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Debug\WyDriver.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Debug\WyDriver.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Debug\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Debug\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Debug\Compsys2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Debug\Compsys2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Debug\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Debug\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Debug\Compsis2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Debug\Compsis2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Debug\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Debug\Trf2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Debug\Trf2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Debug\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Debug\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Debug\Trf2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Debug\Trf2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Debug\App.pdb

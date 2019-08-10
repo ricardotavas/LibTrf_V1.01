@@ -1,0 +1,131 @@
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Release\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Release\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Release\WyDriver.dll
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\bin\Release\WyDriver.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Release\App.Form1.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Release\App.Properties.Resources.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Release\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\C#\WYDRIVER V1.0\App\obj\Release\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Release\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Release\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Release\App.exe
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Release\App.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Release\WyDriver.dll
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\bin\Release\WyDriver.pdb
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Release\App.Form1.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Release\App.Properties.Resources.resources
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ricardo.FORTALEZA\Meus documentos\Visual Studio 2010\Projects\CSHARP\WYDRIVER V1.0\App\obj\Release\GenerateResource.write.1.tlog
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Release\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Release\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\bin\Release\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\bin\Release\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\bin\Release\WyDriver.dll
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\bin\Release\WyDriver.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Release\App.Form1.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.01\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\obj\Release\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\obj\Release\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\bin\Release\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\bin\Release\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\bin\Release\WyDriver.dll
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\bin\Release\WyDriver.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\obj\Release\App.Form1.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.02\App\bin\Release\App.exe.config
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\bin\Release\App.exe.config
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\bin\Release\App.exe
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\bin\Release\App.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\bin\Release\WyDriver.dll
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\bin\Release\WyDriver.pdb
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.Form1.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.03\App\obj\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\obj\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\bin\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\bin\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\bin\Release\WyDriver.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\bin\Release\WyDriver.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\obj\Release\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.04\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Release\WyDriver.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\bin\Release\WyDriver.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Release\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\WYDRIVER V1.05\App\obj\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Release\Compsys2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\bin\Release\Compsys2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Release\App.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Release\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS_2L\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS2L\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS2L\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSYS2L\App\obj\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.csproj.GenerateResource.Cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Release\Compsis2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\bin\Release\Compsis2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.csprojAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2015\Projects\COMPSIS2L\App\obj\Release\App.csproj.CopyComplete
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Release\Trf2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\bin\Release\Trf2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.csprojAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.csproj.GenerateResource.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.csproj.CopyComplete
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.00\App\obj\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Release\App.exe.config
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Release\App.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Release\Trf2L.dll
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\bin\Release\Trf2L.pdb
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.csprojAssemblyReference.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.Form1.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.Properties.Resources.resources
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.csproj.GenerateResource.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.csproj.CopyComplete
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.exe
+C:\Users\ricardo.FORTALEZA\Documents\Visual Studio 2017\Projects\TRF2L V1.01\App\obj\Release\App.pdb
